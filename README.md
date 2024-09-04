@@ -28,7 +28,7 @@ Settings and Configuration:
 * Payment Settings: Manage payment gateways and transaction settings.
 
 # Technology Stack:
-* Backend:
+# Backend:
 Spring Boot: Utilized for building the backend application with a focus on creating a robust, scalable, and maintainable server-side system. Spring Boot offers a comprehensive framework for developing Java-based web applications, including RESTful APIs.
 * Database:
 MySQL: A reliable and widely-used relational database management system for robust data storage and retrieval. MySQL will manage data related to products, users, orders, and other critical information efficiently.
